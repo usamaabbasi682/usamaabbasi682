@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Usama Abbasi — Full Stack Web Developer</h1>
-<h3 align="center">Experienced PHP & Laravel Web Developer with 4+ years of hands-on experience in building scalable, high-performance web applications. Specialized in backend development with Laravel, and proficient in Laravel Livewire for creating dynamic, real-time interfaces. Also experienced in Vue.js (1.5 years) for building responsive and interactive frontend components. Passionate about writing clean, maintainable code and bridging the gap between frontend and backend to deliver seamless user experiences.</h3>
+<h1 align="start">Hi 👋, I'm Usama Abbasi — Full Stack Web Developer</h1>
+<h3 align="start">Experienced PHP & Laravel Web Developer with 4+ years of hands-on experience in building scalable, high-performance web applications. Specialized in backend development with Laravel, and proficient in Laravel Livewire for creating dynamic, real-time interfaces. Also experienced in Vue.js (1.5 years) for building responsive and interactive frontend components. Passionate about writing clean, maintainable code and bridging the gap between frontend and backend to deliver seamless user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaabbasi682&label=Profile%20views&color=0e75b6&style=flat" alt="usamaabbasi682" /> </p>
 
