@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **- PHP & Laravel development - Laravel Livewire for real-time UI - Building RESTful APIs - Integrating third-party APIs (Stripe, PayPal, etc.) - MySQL database design and optimization - Vue.js for dynamic frontend development - React basics and Redux for state management**
 
-- 📫 How to reach me **Email: usamaabbasi.dev@gmail.com , Phone: 03465645873**
+- 📫 How to reach me **Email: usamaabbasi682@gmail.com , Phone: 03465645873**
 
-- ⚡ Fun fact **⚡ Fun fact: I can debug someone else’s code faster than my own 😅**
+- ⚡ Fun fact **I can debug someone else’s code faster than my own 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
