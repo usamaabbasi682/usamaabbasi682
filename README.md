@@ -18,12 +18,11 @@
 
 Senior Laravel Full Stack Developer with **4+ years** of experience building production-grade, scalable web applications and API-driven platforms. Based in **Islamabad, Pakistan**.
 
-- 🚀 Delivered **30% improvement** in application load times through query optimization & caching
+- 🚀 Optimized backend performance across high-traffic production applications
 - 💳 Integrated payment gateways: **Stripe, PayPal, Cybersource** with subscription & webhook flows
-- ☁️ Managing production infrastructure on **AWS** (EC2, RDS, S3, Route 53)
+- ☁️ Managing production infrastructure on **AWS** (EC2, RDS, S3, Route 53, SQS, SES)
 - ⚡ Eliminated N+1 queries and optimized high-traffic endpoints across production systems
 - 🔐 Built secure authentication, RBAC systems, and REST APIs consumed by web & mobile apps
-- 🎯 Currently working on **[JamPayroll](https://jampayroll.crosip.com)**
 
 ---
 
@@ -75,7 +74,7 @@ Senior Laravel Full Stack Developer with **4+ years** of experience building pro
 
 ---
 
-## 🚀 Production Projects
+## 🚀 Production Projects (Latest)
 
 | Project | Type | Tech Stack | Link |
 |---|---|---|---|
@@ -83,7 +82,6 @@ Senior Laravel Full Stack Developer with **4+ years** of experience building pro
 | **AmeriFreight** | Logistics / Auto Transport | Laravel, PHP, JavaScript, MySQL | [Live ↗](https://www.amerifreight.net/) |
 | **Crossfields Institute** | Certificate Management Portal | Laravel, Livewire, jQuery, MySQL | [Live ↗](https://portal.crossfieldsinstitute.com/login) |
 | **Ubixana** | Medicine & Task Management | Laravel, Livewire, jQuery, MySQL | [Live ↗](https://www.ubixana.ch/login) |
-| **JamPayroll** | Payroll System | Laravel, Vue.js, AWS | [Live ↗](https://jampayroll.crosip.com) |
 
 ---
 
@@ -107,13 +105,6 @@ Senior Laravel Full Stack Developer with **4+ years** of experience building pro
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usamaabbasi682&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaabbasi682&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F97316"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usamaabbasi682&theme=dark&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
 
 </div>
@@ -124,7 +115,7 @@ Senior Laravel Full Stack Developer with **4+ years** of experience building pro
 
 <div align="center">
 
-📧 **usamaabbasi682@gmail.com** &nbsp;|&nbsp; 📞 **+92 346 5645873** &nbsp;|&nbsp; 📍 **Islamabad, Pakistan**
+📧 **usamaabbasi682@gmail.com** &nbsp;|&nbsp; 📍 **Islamabad, Pakistan**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamaabbasi-dev)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamaabbasi682)
