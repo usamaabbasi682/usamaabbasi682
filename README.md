@@ -1,9 +1,10 @@
+
 <div align="center">
 
 # Hi, I'm Usama Abbasi 👋
-### Senior Laravel Full Stack Developer
+### PHP / Laravel Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=4%2B+Years+Laravel+%26+PHP+Experience;REST+API+Architect+%7C+AWS+Specialist;Payment+Gateway+%26+Real-Time+Systems;Clean+Code+%7C+Scalable+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=4.5%2B+Years+PHP+%26+Laravel+Experience;Full-Stack+Development+%7C+Vue.js+%26+Inertia.js;RESTful+APIs+%7C+AWS+%7C+MySQL;Payment+Integrations+%7C+OpenAI+API;Clean+Code+%7C+Scalable+Applications)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=usamaabbasi682&label=Profile+Views&color=F97316&style=flat-square)](https://github.com/usamaabbasi682)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamaabbasi-dev)
@@ -16,88 +17,121 @@
 
 ## 👨‍💻 About Me
 
-Senior Laravel Full Stack Developer with **4+ years** of experience building production-grade, scalable web applications and API-driven platforms. Based in **Islamabad, Pakistan**.
+PHP / Laravel Full-Stack Developer with **4.5+ years of professional experience** building, optimizing, and maintaining scalable, production-grade web applications. Based in **Islamabad, Pakistan**.
 
-- 🚀 Optimized backend performance across high-traffic production applications
-- 💳 Integrated payment gateways: **Stripe, PayPal, Cybersource** with subscription & webhook flows
-- ☁️ Managing production infrastructure on **AWS** (EC2, RDS, S3, Route 53, SQS, SES)
-- ⚡ Eliminated N+1 queries and optimized high-traffic endpoints across production systems
-- 🔐 Built secure authentication, RBAC systems, and REST APIs consumed by web & mobile apps
+I specialize in backend development, API architecture, database optimization, payment integrations, and cloud-based application development.
+
+- 🚀 Built and maintained production applications serving real business workflows and paying customers.
+- ⚡ Improved application load times by **30%** through database optimization, caching, and eliminating N+1 queries.
+- 💳 Integrated **Stripe, PayPal, and Cybersource** for payment processing, subscriptions, and webhook workflows.
+- ☁️ Worked with **AWS infrastructure**, including EC2, RDS, S3, SQS, SES, and Route 53.
+- 🔌 Designed and developed RESTful APIs for web and mobile applications.
+- 🤖 Integrated the **OpenAI API** into application workflows.
+- 🔐 Implemented secure authentication, role-based access control (RBAC), and permission systems.
+- 🧪 Focused on clean architecture, maintainable code, PHPUnit testing, and reliable software delivery.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend Development
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Laravel Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
 
-### Frontend
+### Frontend Development
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### Database & Cache
+### Database & Optimization
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Payments & Integrations
+### Payments & API Integrations
+
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Testing & Quality
+
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
 
 ---
 
 ## 🏆 Key Expertise
 
-```
-✅ RESTful API Design & Architecture        ✅ Laravel Eloquent ORM & Query Builder
-✅ Real-Time Systems (WebSockets, Pusher)   ✅ Queues, Jobs & Event Scheduling
-✅ Payment Gateway Integrations             ✅ AWS Infrastructure Management
-✅ Authentication & RBAC Security           ✅ Database Optimization & Indexing
-✅ SPA Development (Vue.js + Inertia.js)    ✅ Repository Pattern & Clean Code
-✅ Third-Party API Integrations             ✅ Git Workflows & Team Collaboration
-```
+| Area | Expertise |
+|---|---|
+| Backend Architecture | Laravel MVC, Eloquent ORM, Query Builder, Service Classes |
+| API Development | RESTful APIs, API Authentication, Third-Party Integrations |
+| Database Engineering | MySQL, Schema Design, Normalization, Indexing, Query Optimization |
+| Payment Systems | Stripe, PayPal, Cybersource, Webhooks, Recurring Billing |
+| Cloud Infrastructure | AWS EC2, RDS, S3, SQS, SES, Route 53 |
+| Frontend Development | Vue.js, Inertia.js, Livewire, JavaScript, HTML, CSS |
+| Background Processing | Queues, Jobs, Event Scheduling, Asynchronous Processing |
+| Security | Authentication, Authorization, RBAC, Access Control |
+| Application Quality | PHPUnit, Unit Testing, TDD, Code Reviews, Clean Code |
+| AI Integration | OpenAI API Integration |
 
 ---
 
-## 🚀 Production Projects (Latest)
+## 🚀 Selected Production Projects
 
-| Project | Type | Tech Stack | Link |
+| Project | Description | Technologies | Link |
 |---|---|---|---|
-| **Advise Cube Consulting** | LMS Platform | Laravel, Stripe, PayPal, Blade, jQuery | [Live ↗](https://advisecubeconsulting.com/) |
-| **AmeriFreight** | Logistics / Auto Transport | Laravel, PHP, JavaScript, MySQL | [Live ↗](https://www.amerifreight.net/) |
-| **Crossfields Institute** | Certificate Management Portal | Laravel, Livewire, jQuery, MySQL | [Live ↗](https://portal.crossfieldsinstitute.com/login) |
-| **Ubixana** | Medicine & Task Management | Laravel, Livewire, jQuery, MySQL | [Live ↗](https://www.ubixana.ch/login) |
+| **The Thinking Tent** | Learning management platform with learning pathways, evidence submissions, assessor reviews, and dashboards. | Laravel, PHP, MySQL | [Live ↗](https://portal.thethinkingtent.co.uk) |
+| **Crossfields Institute** | Certificate management portal with qualifications, centres, learner records, EQA workflows, imports, and reporting. | Laravel, Livewire, jQuery, MySQL | [Live ↗](https://portal.crossfieldsinstitute.com/login) |
+| **Advise Cube Consulting** | Learning management system with course management, quizzes, and payment integrations. | Laravel, Stripe, PayPal, Blade, jQuery | [Live ↗](https://advisecubeconsulting.com/) |
+| **AmeriFreight** | Logistics and auto-transport platform supporting shipment, order management, and dispatch workflows. | Laravel, PHP, JavaScript, MySQL | [Live ↗](https://amerifreight.net/) |
+| **Home Suite** | Real estate platform involving backend APIs, AI-powered features, and payment processing. | Laravel APIs, React.js, OpenAI, Cybersource | [Live ↗](https://homesuitett.com/website) |
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-**🔹 Senior Laravel Full Stack Developer** — *Esquall Technologies, Rawalpindi*
+### 🔹 PHP/Laravel Developer — eSquall LLC
 `Nov 2024 – Present`
-> Architecting Vue.js + Laravel + Inertia.js SPAs, managing AWS infrastructure, 30% load time improvement, payment gateway integrations
 
-**🔹 PHP/Laravel Developer** — *Backendz (Pvt) Ltd, Rawalpindi*
+- Develop full-stack applications using Laravel, Vue.js, and Inertia.js.
+- Improved application load times by **30%** through database optimization, caching strategies, and N+1 query elimination.
+- Manage AWS infrastructure including EC2, RDS, S3, SQS, and Route 53.
+- Integrate Stripe and PayPal for payment processing, recurring billing, and subscription workflows.
+- Implement background jobs, queues, and PHPUnit tests to improve application reliability.
+
+### 🔹 Laravel Developer — Backendz (Pvt.) Ltd.
 `Jun 2022 – Oct 2024`
-> Built scalable Laravel apps, secure RBAC systems, RESTful APIs for web & mobile, managed Git workflows for a team of 6
 
-**🔹 PHP/Laravel Developer** — *Zam Software Solutions, Islamabad*
+- Built and maintained scalable Laravel applications for business-critical client workflows.
+- Implemented secure authentication, authorization, and role-based access control.
+- Designed and developed RESTful APIs consumed by web and mobile applications.
+- Integrated Stripe and PayPal, including checkout, webhooks, and transaction handling.
+- Applied Laravel MVC architecture, Eloquent relationships, and reusable service classes.
+- Collaborated with development teams using Git workflows and code management practices.
+
+### 🔹 PHP/Laravel Developer — Zam Software Solutions
 `Mar 2022 – Jun 2022`
-> Admin panel development, MySQL optimization (35% faster queries), third-party API integrations
+
+- Developed Laravel administrative panels for managing products, orders, and customers.
+- Integrated third-party APIs and synchronized application data with external services.
+- Created database migrations and validation rules to maintain data consistency.
+- Worked on MySQL query optimization and backend application workflows.
 
 ---
 
@@ -115,10 +149,16 @@ Senior Laravel Full Stack Developer with **4+ years** of experience building pro
 
 <div align="center">
 
-📧 **usamaabbasi682@gmail.com** &nbsp;|&nbsp; 📍 **Islamabad, Pakistan**
+**PHP / Laravel Full-Stack Developer**
+
+📍 Islamabad, Pakistan
+
+📧 **usamaabbasi682@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamaabbasi-dev)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamaabbasi682)
+
+🌐 [Portfolio](https://portal.thethinkingtent.co.uk)
 
 > ⚡ *"I can debug someone else's code faster than my own"* 😄
 
